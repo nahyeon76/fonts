@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'NewtextITCStd-Regular';
+  src: url('NewtextITCStd-Regular.eot');
+  src: url('NewtextITCStd-Regular.eot?#iefix') format('embedded-opentype'),
+       url('NewtextITCStd-Regular.svg#NewtextITCStd-Regular') format('svg'),
+       url('NewtextITCStd-Regular.ttf') format('truetype'),
+       url('NewtextITCStd-Regular.woff') format('woff'),
+       url('NewtextITCStd-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
