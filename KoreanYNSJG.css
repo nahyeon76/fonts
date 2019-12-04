@@ -1,0 +1,88 @@
+@font-face {
+  font-family: 'KoreanYNSJG1-R';
+  font-weight: normal;
+  font-style: normal;
+  src: url('KoreanYNSJG1-R.svg#KoreanYNSJG1-R') format('svg'),
+       url('KoreanYNSJG1-R.ttf') format('truetype'),
+       url('KoreanYNSJG1-R.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'a옛날사진관1';
+  font-weight: normal;
+  font-style: normal;
+  src: url('a옛날사진관1.eot');
+  src: url('a옛날사진관1.eot?#iefix') format('embedded-opentype'),
+       url('a옛날사진관1.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'KoreanYNSJG2-R';
+  font-weight: normal;
+  font-style: normal;
+  src: url('KoreanYNSJG2-R.svg#KoreanYNSJG2-R') format('svg'),
+       url('KoreanYNSJG2-R.ttf') format('truetype'),
+       url('KoreanYNSJG2-R.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'a옛날사진관2';
+  font-weight: normal;
+  font-style: normal;
+  src: url('a옛날사진관2.eot');
+  src: url('a옛날사진관2.eot?#iefix') format('embedded-opentype'),
+       url('a옛날사진관2.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'KoreanYNSJG3-R';
+  font-weight: normal;
+  font-style: normal;
+  src: url('KoreanYNSJG3-R.svg#KoreanYNSJG3-R') format('svg'),
+       url('KoreanYNSJG3-R.ttf') format('truetype'),
+       url('KoreanYNSJG3-R.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'a옛날사진관3';
+  font-weight: normal;
+  font-style: normal;
+  src: url('a옛날사진관3.eot');
+  src: url('a옛날사진관3.eot?#iefix') format('embedded-opentype'),
+       url('a옛날사진관3.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'KoreanYNSJG4-R';
+  font-weight: normal;
+  font-style: normal;
+  src: url('KoreanYNSJG4-R.svg#KoreanYNSJG4-R') format('svg'),
+       url('KoreanYNSJG4-R.ttf') format('truetype'),
+       url('KoreanYNSJG4-R.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'a옛날사진관4';
+  font-weight: normal;
+  font-style: normal;
+  src: url('a옛날사진관4.eot');
+  src: url('a옛날사진관4.eot?#iefix') format('embedded-opentype'),
+       url('a옛날사진관4.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'KoreanYNSJG5-R';
+  font-weight: normal;
+  font-style: normal;
+  src: url('KoreanYNSJG5-R.svg#KoreanYNSJG5-R') format('svg'),
+       url('KoreanYNSJG5-R.ttf') format('truetype'),
+       url('KoreanYNSJG5-R.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'a옛날사진관5';
+  font-weight: normal;
+  font-style: normal;
+  src: url('a옛날사진관5.eot');
+  src: url('a옛날사진관5.eot?#iefix') format('embedded-opentype'),
+       url('a옛날사진관5.woff2') format('woff2');
+}
