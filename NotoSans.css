@@ -31,11 +31,11 @@
     font-style: normal;
     font-weight: 300;
     src: local('NotoSans'),
-        url('NotoSans-Demilight.woff2') format('woff2'), 
-        url('NotoSans-Demilight.woff') format('woff'),
-        url('NotoSans-Demilight.ttf') format('truetype'),
-        url('NotoSans-Demilight.otf') format('opentype'),
-        url('NotoSans-Demilight.eot') format('embedded-opentype');
+        url('NotoSans-DemiLight.woff2') format('woff2'), 
+        url('NotoSans-DemiLight.woff') format('woff'),
+        url('NotoSans-DemiLight.ttf') format('truetype'),
+        url('NotoSans-DemiLight.otf') format('opentype'),
+        url('NotoSans-DemiLight.eot') format('embedded-opentype');
 }
 
 @font-face {
