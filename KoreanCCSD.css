@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "KoreanCCSD-B";
+  font-weight: normal;
+  font-style: normal;
+  src: url("aB.eot"); /* IE9 Compat Modes */
+  src: url("aB.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("aB.otf") format("opentype"), /* Open Type Font */
+    url("aB.svg") format("svg"), /* Legacy iOS */
+    url("aB.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("aB.woff") format("woff"), /* Modern Browsers */
+    url("aB.woff2") format("woff2"); /* Modern Browsers */
+}
+
+@font-face {
+  font-family: "KoreanCCSD-M";
+  font-weight: normal;
+  font-style: normal;
+  src: url("aM.eot"); /* IE9 Compat Modes */
+  src: url("aM.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("aM.otf") format("opentype"), /* Open Type Font */
+    url("aM.svg") format("svg"), /* Legacy iOS */
+    url("aM.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("aM.woff") format("woff"), /* Modern Browsers */
+    url("aM.woff2") format("woff2"); /* Modern Browsers */
+}
